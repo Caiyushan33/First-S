@@ -1,0 +1,70 @@
+{
+  "cluster_0": {
+    "error": "module 'zhipuai' has no attribute 'model_api'",
+    "status": "exception"
+  },
+  "cluster_1": {
+    "error": "module 'zhipuai' has no attribute 'model_api'",
+    "status": "exception"
+  },
+  "cluster_2": {
+    "error": "module 'zhipuai' has no attribute 'model_api'",
+    "status": "exception"
+  },
+  "cluster_3": {
+    "error": "module 'zhipuai' has no attribute 'model_api'",
+    "status": "exception"
+  },
+  "cluster_4": {
+    "error": "module 'zhipuai' has no attribute 'model_api'",
+    "status": "exception"
+  },
+  "cluster_5": {
+    "error": "module 'zhipuai' has no attribute 'model_api'",
+    "status": "exception"
+  },
+  "cluster_6": {
+    "error": "module 'zhipuai' has no attribute 'model_api'",
+    "status": "exception"
+  },
+  "cluster_7": {
+    "error": "module 'zhipuai' has no attribute 'model_api'",
+    "status": "exception"
+  },
+  "cluster_8": {
+    "error": "module 'zhipuai' has no attribute 'model_api'",
+    "status": "exception"
+  },
+  "cluster_9": {
+    "error": "module 'zhipuai' has no attribute 'model_api'",
+    "status": "exception"
+  },
+  "cluster_10": {
+    "error": "module 'zhipuai' has no attribute 'model_api'",
+    "status": "exception"
+  },
+  "cluster_11": {
+    "error": "module 'zhipuai' has no attribute 'model_api'",
+    "status": "exception"
+  },
+  "cluster_12": {
+    "error": "module 'zhipuai' has no attribute 'model_api'",
+    "status": "exception"
+  },
+  "cluster_13": {
+    "error": "module 'zhipuai' has no attribute 'model_api'",
+    "status": "exception"
+  },
+  "cluster_14": {
+    "error": "module 'zhipuai' has no attribute 'model_api'",
+    "status": "exception"
+  },
+  "cluster_15": {
+    "error": "module 'zhipuai' has no attribute 'model_api'",
+    "status": "exception"
+  },
+  "cluster_16": {
+    "error": "module 'zhipuai' has no attribute 'model_api'",
+    "status": "exception"
+  }
+}
