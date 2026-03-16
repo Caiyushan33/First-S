@@ -1,0 +1,291 @@
+{
+  "cluster_0": {
+    "tissue_type": "Mus musculus Kidney",
+    "marker_genes": [
+      "Calml4",
+      "Pdzk1",
+      "Hrsp12",
+      "Spink3",
+      "Cyba",
+      "Sema3c",
+      "Rps19",
+      "Fut9",
+      "Adamts1",
+      "Maf"
+    ],
+    "llm_response": "调用API时出错: Error code: 401, with error text {\"error\":{\"code\":\"401\",\"message\":\"令牌已过期或验证不正确\"}}",
+    "status": "exception"
+  },
+  "cluster_1": {
+    "tissue_type": "Mus musculus Kidney",
+    "marker_genes": [
+      "Rps26",
+      "Rps26-ps1",
+      "Rpl32",
+      "Rps5",
+      "Npm1",
+      "Hsp90ab1",
+      "Lsp1",
+      "Rps25",
+      "Rps9",
+      "Wdr89"
+    ],
+    "llm_response": "调用API时出错: Error code: 401, with error text {\"error\":{\"code\":\"401\",\"message\":\"令牌已过期或验证不正确\"}}",
+    "status": "exception"
+  },
+  "cluster_2": {
+    "tissue_type": "Mus musculus Kidney",
+    "marker_genes": [
+      "Fabp4",
+      "Egfl7",
+      "Sparc",
+      "S100a10",
+      "Gimap4",
+      "Calm1",
+      "Emcn",
+      "Gpr116",
+      "Ednrb",
+      "Meis2"
+    ],
+    "llm_response": "调用API时出错: Error code: 401, with error text {\"error\":{\"code\":\"401\",\"message\":\"令牌已过期或验证不正确\"}}",
+    "status": "exception"
+  },
+  "cluster_3": {
+    "tissue_type": "Mus musculus Kidney",
+    "marker_genes": [
+      "Umod",
+      "Slc12a1",
+      "Cldn10",
+      "Fxyd2",
+      "Sostdc1",
+      "Apoe",
+      "Slc25a5",
+      "Kng2",
+      "Atp1a1",
+      "Wfdc15b"
+    ],
+    "llm_response": "调用API时出错: Error code: 401, with error text {\"error\":{\"code\":\"401\",\"message\":\"令牌已过期或验证不正确\"}}",
+    "status": "exception"
+  },
+  "cluster_4": {
+    "tissue_type": "Mus musculus Kidney",
+    "marker_genes": [
+      "Aqp2",
+      "Aqp3",
+      "Krt18",
+      "Fstl1",
+      "Fxyd4",
+      "Aqp4",
+      "Npnt",
+      "Pdzk1ip1",
+      "Hsd11b2",
+      "Cdh16"
+    ],
+    "llm_response": "调用API时出错: Error code: 401, with error text {\"error\":{\"code\":\"401\",\"message\":\"令牌已过期或验证不正确\"}}",
+    "status": "exception"
+  },
+  "cluster_5": {
+    "tissue_type": "Mus musculus Kidney",
+    "marker_genes": [
+      "Rprm",
+      "Epcam",
+      "Fam149a",
+      "Calb1",
+      "1500015O10Rik",
+      "Gata3",
+      "Emx2",
+      "Krt18",
+      "Cldn7",
+      "Ehf"
+    ],
+    "llm_response": "调用API时出错: Error code: 401, with error text {\"error\":{\"code\":\"401\",\"message\":\"令牌已过期或验证不正确\"}}",
+    "status": "exception"
+  },
+  "cluster_6": {
+    "tissue_type": "Mus musculus Kidney",
+    "marker_genes": [
+      "Col1a2",
+      "Col3a1",
+      "Lgals1",
+      "Cald1",
+      "Actb",
+      "Tcf21",
+      "Tmsb4x",
+      "Gpc3",
+      "Gucy1a3",
+      "Cdh11"
+    ],
+    "llm_response": "调用API时出错: Error code: 401, with error text {\"error\":{\"code\":\"401\",\"message\":\"令牌已过期或验证不正确\"}}",
+    "status": "exception"
+  },
+  "cluster_7": {
+    "tissue_type": "Mus musculus Kidney",
+    "marker_genes": [
+      "Slc12a1",
+      "Sfrp1",
+      "Sostdc1",
+      "Tfap2b",
+      "Atp1b1",
+      "Ly6a",
+      "Fxyd2",
+      "Clcnkb",
+      "Atp1a1",
+      "Mt1"
+    ],
+    "llm_response": "调用API时出错: Error code: 401, with error text {\"error\":{\"code\":\"401\",\"message\":\"令牌已过期或验证不正确\"}}",
+    "status": "exception"
+  },
+  "cluster_8": {
+    "tissue_type": "Mus musculus Kidney",
+    "marker_genes": [
+      "Hist1h2ap",
+      "Hist1h2ao",
+      "Tubb5",
+      "Ptma",
+      "H2afz",
+      "2810417H13Rik",
+      "Hmgb2",
+      "Dek",
+      "Hist1h2ag",
+      "Nasp"
+    ],
+    "llm_response": "调用API时出错: Error code: 401, with error text {\"error\":{\"code\":\"401\",\"message\":\"令牌已过期或验证不正确\"}}",
+    "status": "exception"
+  },
+  "cluster_9": {
+    "tissue_type": "Mus musculus Kidney",
+    "marker_genes": [
+      "Mafb",
+      "Cdkn1c",
+      "Pcp4",
+      "Nes",
+      "Golim4",
+      "Tcf21",
+      "Eif3m",
+      "Calm2",
+      "Nphs1",
+      "Igfbp7"
+    ],
+    "llm_response": "调用API时出错: Error code: 401, with error text {\"error\":{\"code\":\"401\",\"message\":\"令牌已过期或验证不正确\"}}",
+    "status": "exception"
+  },
+  "cluster_10": {
+    "tissue_type": "Mus musculus Kidney",
+    "marker_genes": [
+      "Atp6v0d2",
+      "Atp6v1g3",
+      "Atp6v1a",
+      "Atp6v0c",
+      "Tmem213",
+      "Cystm1",
+      "Itm2b",
+      "Car12",
+      "Tfcp2l1",
+      "Car2"
+    ],
+    "llm_response": "调用API时出错: Connection error.",
+    "status": "exception"
+  },
+  "cluster_11": {
+    "tissue_type": "Mus musculus Kidney",
+    "marker_genes": [
+      "Lrp2",
+      "Aldob",
+      "Pdzk1",
+      "Ttc36",
+      "Fbp1",
+      "Calml4",
+      "Hrsp12",
+      "Spink3",
+      "Acadm",
+      "Fut9"
+    ],
+    "llm_response": "调用API时出错: Connection error.",
+    "status": "exception"
+  },
+  "cluster_12": {
+    "tissue_type": "Mus musculus Kidney",
+    "marker_genes": [
+      "Top2a",
+      "Lgals1",
+      "Mki67",
+      "Hmgb2",
+      "Ptn",
+      "Cald1",
+      "Smc2",
+      "Actb",
+      "Smc4",
+      "Tuba1b"
+    ],
+    "llm_response": "调用API时出错: Connection error.",
+    "status": "exception"
+  },
+  "cluster_13": {
+    "tissue_type": "Mus musculus Kidney",
+    "marker_genes": [
+      "Tmem52b",
+      "Atp1b1",
+      "Sostdc1",
+      "Atp1a1",
+      "Atp5b",
+      "Trpm7",
+      "Cox6a1",
+      "Chchd10",
+      "Cox7b",
+      "Cox6c"
+    ],
+    "llm_response": "调用API时出错: Connection error.",
+    "status": "exception"
+  },
+  "cluster_14": {
+    "tissue_type": "Mus musculus Kidney",
+    "marker_genes": [
+      "S100g",
+      "Defb1",
+      "Calb1",
+      "Spp1",
+      "Kl",
+      "Tmem52b",
+      "Atp1b1",
+      "Pgam2",
+      "Wfdc2",
+      "Uqcrq"
+    ],
+    "llm_response": "调用API时出错: Request timed out.",
+    "status": "exception"
+  },
+  "cluster_15": {
+    "tissue_type": "Mus musculus Kidney",
+    "marker_genes": [
+      "Cald1",
+      "Actb",
+      "Tm4sf1",
+      "Vim",
+      "Rgs5",
+      "Lgals1",
+      "Acta2",
+      "Tpm1",
+      "Gnas",
+      "Myl9"
+    ],
+    "llm_response": "调用API时出错: Request timed out.",
+    "status": "exception"
+  },
+  "cluster_16": {
+    "tissue_type": "Mus musculus Kidney",
+    "marker_genes": [
+      "Hist1h2ao",
+      "Hist1h2ap",
+      "Hist1h2ag",
+      "Hist1h2ah",
+      "2810417H13Rik",
+      "Hmgb2",
+      "Hist1h2ab",
+      "Hist1h2ad",
+      "Smc4",
+      "H2afz"
+    ],
+    "llm_response": "调用API时出错: Request timed out.",
+    "status": "exception"
+  }
+}
